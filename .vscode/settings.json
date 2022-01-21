@@ -1,0 +1,6 @@
+{
+    "workbench.colorCustomizations": {
+        "titleBar.activeBackground": "#c3ea04"
+    },
+    "python.pythonPath": ".venv/bin/python"
+}
